@@ -1,0 +1,44 @@
+.affiche{
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.9);
+    margin-top: 10%;
+
+}
+
+.affiche img{
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.formulaire{
+    margin-top: 50px;
+    height: 400px;
+    overflow-y: auto;
+}
+.formulaire form {
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.formulaire table{
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+#enregistrer input{
+    background: green;
+    color: white;
+    font: bold;
+    
+}
+
+textarea{
+    resize:  none;
+}
+
+
